@@ -1,11 +1,4 @@
-//  Name:Connie Zhang 
-//  Date:12/10/17
-//  Period:5
-//  What I Learned:
-//1. I learned the difference between an iterator and a for each loop- an
-//iterator allows you to change the data structure while a for each loop only iterates through it
-//Credits: Thomas Bae- he helped me with the constructor and helping me understand what to cast each variable and 
-//the reason for casting them 
+
 import java.util.*;
 public class MyStack<E> implements Iterable<E>{
 	private static class ListNode <E> 
