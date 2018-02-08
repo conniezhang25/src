@@ -1,10 +1,4 @@
-//  Name:Connie Zhang 
-//  Date:11/14/17
-//  Period:5
-//  What I Learned:
-//1. I learned to use the string left and right to compare the indexes. At first, I was confused on how to 
-//properly compare the parenthesis but realized that by using stack it is very helpful to keep track of the index numbers 
-//2. I learned that I have to pop the char first before comparing it
+
 import java.util.*;
 public class ParenMatch
 {
