@@ -1,25 +1,4 @@
-/***********************************************************************************************************************************************
- * Name: Connie Zhang         
- * Period: 5
- * Name of the Lab: RecursionLab
- * Purpose of the Program: The purpose of this lab is to understand basics of recursion- 
- * understand difference between iterative and recursive versions
- * Due Date: 10/12/17
- * Date Submitted:10/12/17
- * What I learned: 
- * 1.I learned that in order to return a value through recursion, you must pass the return 
- * to the next call. I had trouble with this concept in the Powerof3 method. I forgot to return the 
- * boolean from the method. This prevented the correct value from being returned. Without this return 
- * statement, I had to return false at the end of the method. 
- * 2. I learned that recursion is not necessarily better than an iterative version. It may just be cleaner and neater.
- * 
- * How I feel about this lab: I felt that this lab was a little challenging. I thought that being able to convert iterative methods into recursive
- * methods took me a while to get a hang of. Other than that, I think that recursive methods are useful and are cleaner methods
- * What I wonder: 
- * Student(s) who helped me (to what extent):  Jackie Yang helped me realize that I need to return my method when I call it 
- * in order to pass the value to the next call. Justin Guo told me that chars have an internal reference of ints
- * Student(s) whom I helped (to what extent):
- *************************************************************************************************************************************************/
+
 import java.util.Scanner;   
 public class RecursionLab {
 
