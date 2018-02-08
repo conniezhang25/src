@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-public class SubwayTokensDriver
+public class TicTacToeDriver
 { 
     public static void main(String[] args)
    {
@@ -18,10 +18,10 @@ public class SubwayTokensDriver
          }
       }
           
-      JFrame frame = new JFrame("Subway Tokens");
+      JFrame frame = new JFrame("Tic Tac Toe!");
       frame.setSize(400, 400);
       frame.setLocation(200, 100);
-      frame.setContentPane(new SubwayTokensPanel());
+      frame.setContentPane(new TicTacToePanel());
       frame.setVisible(true);
    }
    
