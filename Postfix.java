@@ -1,12 +1,4 @@
-//  Name:Connie Zhang
 
-//  Date:11/14/17
-//  Period:5
-//  What I Learned:
-//1. I learned the importance of order of operations because when you pop the number from the stack 
-//it pops the last number, but for division and substraction, you need the second number to subtract of divide first 
-//2. I learned that using a stack is very helpful to evaluate expressions because it keeps everything in order 
-//
    import java.util.*;
    public class Postfix
    {
