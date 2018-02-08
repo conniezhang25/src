@@ -1,28 +1,4 @@
-/***********************************************************************************************************************************************
- * Name: Connie Zhang         
- * Period: 5
- * Name of the Lab: DLL
- * Purpose of the Program: The purpose of this program was to learn the basic methods of DLL 
- * learn the differences between DLL and SLL
-  * Due Date: 10/7/17
- * Date Submitted:10/7/17
- * What I learned: 
- * 1.I learned that DLL is a lot easier to code because of the function getPrev. This allows 
- * the user to be able to go backwards in a linked list. I think this is easier than SLL because 
- * it has more functions.
- * 2. I learned that in DLL, you can link it so that it becomes circular. This is helpful so 
- * that you can reference the last index based on head. 
- * 3. I learned that having a dummy head node is very helpful in referencing nodes in the linked 
- * list because it makes my code more efficient 
- * ... 
- * How I feel about this lab: I felt that this lab was significantly easier to code than the SLL
- * lab. This was mostly due to the versatility of DLL. It makes it very easy to get access to almost
- * every node without having to tediously loop through it. Also, having the function to go backwards
- * in the list is very useful as well. 
- * What I wonder: 
- * Student(s) who helped me (to what extent):  Angie Zhou and Megan Liu: helped me debug my add Last method.
- * Student(s) whom I helped (to what extent):
- *************************************************************************************************************************************************/
+
 public class DLL <E>
 {
    // private static nested class
