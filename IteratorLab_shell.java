@@ -1,21 +1,4 @@
-/*****************************************************************************************************************
-NAME:Connie Zhang
-PERIOD:5
-DUE DATE: 12/11/17
-ASSIGNMENT:IteratorLab_shell 
 
-PURPOSE:To understand the difference between iterator and for each 
-
-LEARNED:  I learned the difference between an iterator and a for each loop and the benefits of each
-an iterator allows you to remove values in an ArrayList if you use an active iterator however you cant 
-change any values by using a for each loop- only allows you to traverse values.
-Also, I learned the benefits and disadvantages of using a ListIterator- you can only use it on list classes 
-and you can traverse it on both sides.  
-            
-CREDITS: 
-Thomas Bae and Angie Zhou helped me realize to use the contains method for a more efficient way of checking if the 
-movie was a duplicate
-****************************************************************************************************************/
 
  // NOTE:  use for-each loops or iterators, not regular for-loops
    import java.io.*;
