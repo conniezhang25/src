@@ -1,9 +1,4 @@
-//  Name:Connie Zhang
-//  Date:11/23/17
-//  Period:5
-//  What I Learned:
-//1. I learned that queues are different than stacks in that it is first in first out
-//
+
 import java.io.*;
    import java.util.*;
    
