@@ -1,11 +1,4 @@
-//  Name:Connie Zhang
-//  Date:11/17/17
-//  Period:5
-//  What I Learned:
-//1. I learned to test the three conditions(empty, left paren, precedence) separatly to cover all cases
-//2. I learned that using a stack is very helpful to evaluate expressions because it keeps everything in order 
-//3. I learned to pop the operator once you find a paren to correctly evaluate the paren part first 
-//
+
 import java.util.*;
 public class Infix extends Postfix
 {
